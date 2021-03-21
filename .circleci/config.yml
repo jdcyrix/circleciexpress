@@ -4,9 +4,4 @@ orbs:
 workflows:
   node-tests:
     jobs:
-<<<<<<< HEAD
-      - node/test  
-=======
       - node/test
-  
->>>>>>> dee2ab6809f05851c205b86251c5529ad079fdf1
